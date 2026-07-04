@@ -1,0 +1,11 @@
+.env
+   client_secret.json
+   token.json
+   venv/
+   __pycache__/
+   *.pyc
+   *.pyo
+   .DS_Store
+   Thumbs.db
+   .vscode/
+   .idea/
